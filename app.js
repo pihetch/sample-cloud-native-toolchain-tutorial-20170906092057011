@@ -2,9 +2,9 @@
 /*jshint unused: false */
 'use strict';
 
-/***
+/**
  * Module dependencies.
- **/
+ */
 
 if (process.env.NEW_RELIC_LICENSE_KEY) {
   console.log('New Relic in use.');
